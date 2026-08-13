@@ -1,6 +1,6 @@
 # Books Cited by *Natural Language Processing with Python*
 
-This page collects the **book-length works cited in the bibliography of *****Natural Language Processing with Python*** by Steven Bird, Ewan Klein, and Edward Loper.
+This page collects the **book-length works cited in the bibliography of** ***Natural Language Processing with Python*** by Steven Bird, Ewan Klein, and Edward Loper.
 
 * **Book:** [Natural Language Processing with Python](https://www.nltk.org/book_1ed/)
 * **NLTK bibliography:** https://www.nltk.org/book_1ed/bibliography.html
